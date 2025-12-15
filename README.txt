@@ -1,4 +1,4 @@
-Step 1: make sure you create the virutal enviornment in the 'name of the folder you want it' folder for it to work
+Step 1: make sure you create the virutal enviornment in the 'name of the folder you want it' for it to work
 
 Step 2: python -m venv yoloenv (create the virtual environment)
 
