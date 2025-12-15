@@ -1,0 +1,12 @@
+train: train/images
+val: valid/images
+test: test/images
+
+#since testing with 3, that means there are only 3 classes (number of classes)
+nc: 3
+#the classes name of the obejcts 
+names:
+  - mask
+  - no-mask
+  - head
+ 
